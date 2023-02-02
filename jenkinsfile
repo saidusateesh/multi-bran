@@ -23,6 +23,7 @@ pipeline {
                 echo "test"
                 
                 echo "deploy"
+                echo "copy"
                 
             }
         }
