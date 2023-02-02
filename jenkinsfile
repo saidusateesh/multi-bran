@@ -22,9 +22,6 @@ pipeline {
                 echo "deploy"
                 echo "test"
                 
-                echo "deploy"
-                echo "copy"
-                
             }
         }
     }
