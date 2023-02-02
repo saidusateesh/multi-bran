@@ -19,6 +19,8 @@ pipeline {
                 echo 'Deploying...'
                 echo "adding"
                 
+                echo "deploy"
+                
             }
         }
     }
