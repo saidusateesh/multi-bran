@@ -21,6 +21,7 @@ pipeline {
                 
                 echo "deploy"
                 echo "test"
+                echo "deploy"
                 
             }
         }
